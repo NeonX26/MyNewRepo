@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "http://NeonX26.github.io/MyNewRepo",
-  "scripts": {
+  "homepage": "https://NeonX26.github.io/MyNewRepo",
+    "scripts": {
     "start": "parcel",
     "build": "parcel build",
     "build-gh": "parcel build --public-url 'https://NeonX26.github.io/MyNewRepo'",
